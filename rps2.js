@@ -53,8 +53,8 @@ function playRound(player1, player2) {
 
 playRound(player1, player2);
 
+//Part 2
 function playGame(player1, player2, playUntil) {
-  // **Pt2** 1. Define a function called playGame() that takes arguments player1, player2, and playUntil.
   let Player1Score = 0;
   let Player2Score = 0;
 
